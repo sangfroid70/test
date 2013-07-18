@@ -2,8 +2,11 @@
 #define MACLASSE_H
 
 class MaClasse {
-  MaClasse ();
-  ~MaClasse ();
+	public:
+	 	MaClasse ();
+ 	 	~MaClasse ();
+
+		void status () const;
 };
 
 #endif

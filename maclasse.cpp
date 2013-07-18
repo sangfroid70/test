@@ -7,3 +7,8 @@ MaClasse::Maclasse () {
 MaClasse::~MaClasse () {
 
 }
+
+void MaClasse::status () const {
+
+}
+
